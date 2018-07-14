@@ -3,6 +3,7 @@ body{
 
 }
 #body{
+    margin-top: 10vh;
     height: 50vh;
     display: flex;
     justify-content: center; 
