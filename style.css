@@ -3,11 +3,11 @@ body{
 
 }
 #body{
-    margin-top: 10vh;
-    height: 50vh;
+    height: 100vh;
     display: flex;
     justify-content: center; 
     align-items:center;
+    flex-direction: column;
 }
 #elon {
     display: none; 
@@ -37,6 +37,10 @@ body{
 #play{
     border: 1px solid black;
     
+}
+#dsc{
+    /* position: relative;
+    height: 10vh; */
 }
 .flex-center{
     display: flex; 
