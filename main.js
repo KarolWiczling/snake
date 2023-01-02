@@ -1,4 +1,4 @@
-let canvasHeight = 300;
+https://github.com/K-Wiczling/Snakelet canvasHeight = 300;
 let canvasWidth = 600;
 let gridSize = 10;
 let game = new Game(canvasHeight, canvasWidth, gridSize);
